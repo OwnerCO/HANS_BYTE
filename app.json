@@ -1,7 +1,7 @@
 {
   "name": "hans-byte-md",
   "description": "A bot app with features for media processing, auto-reactions, and more",
-  "repository": "https://github.com/HaroldMth/HANS_BYTE",
+  "repository": "https://github.com/OwnerCO/HANS_BYTE",
   "logo": "https://i.ibb.co/6Rxhg321/Chat-GPT-Image-Mar-30-2025-03-39-42-AM.png",
   "keywords": [
     "nodejs",
@@ -19,15 +19,15 @@
   "env": {
     "SESSION_ID": {
       "description": "Session ID for the bot",
-      "value": "vZcEjZQa#QIZ5gyh8SdXsuvzOTT8jO0CU97ZLLtCStG6k_SHnqzI"
+      "value": "HANS-BYTE~E3chDQIJ#_Yurbh4PuJIR-gIMHWHEurSBg4SvlOG8C2yzkpo97qs"
     },
     "SUDO": {
       "description": "Admin/Sudo number",
-      "value": "237696900612"
+      "value": "51960285930"
     },
     "OWNER_NUM": {
       "description": "Owner's phone number",
-      "value": "237680260772"
+      "value": "51960285930"
     },
     "OWNER_NAME": {
       "description": "Owner's name",
@@ -39,7 +39,7 @@
     },
     "OWNER_LOCATION": {
       "description": "Owner's location",
-      "value": "Africa/Douala"
+      "value": "America/Lima"
     },
     "OWNER_GITHUB": {
       "description": "Owner's GitHub profile URL",
@@ -63,7 +63,7 @@
     },
     "PREFIX": {
       "description": "Command prefix for the bot",
-      "value": "."
+      "value": "#"
     },
     "MODE": {
       "description": "Bot mode (public/private)",
